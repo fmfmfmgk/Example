@@ -22,6 +22,6 @@ public class Sample01 {
 		denom = denom/max;
         int[] answer = {numer,denom};
     
-    return answer;
+    
 	}
 }
